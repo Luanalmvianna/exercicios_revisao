@@ -334,10 +334,11 @@ public class JavaApplication3 {
                                 
                         //exercício 54
                         import java.util.Scanner;
-                        import java.sql.Connection;*/
+                        import java.sql.Connection;
                         
                         //execício 55
                         //class car extends vehicle;
                       
     }
 }
+*/
