@@ -4,15 +4,15 @@
  */
 package javaapplication3;
 
-/**
+/*
  *
  * @author 975551
- */
+
 public class JavaApplication3 {
 
-    /**
+
      * @param args the command line arguments
-     */
+     
     public static void main(String[] args) {
         // TODO code application logic here
        
@@ -22,10 +22,10 @@ public class JavaApplication3 {
         //exercício 2
         // comentário 1
         /* comentário 2 */
-        
-        /*
+   /*     
+    
         //exercício 3
-        string carName = "Volvo";
+        String carName = "Volvo";
         
         //exercício 4
         int maxSpeed = 120;
@@ -54,7 +54,7 @@ public class JavaApplication3 {
         char myText = "Hello World";
         
         //exercício 9
-        primitive data types
+        //primitive data types
                 
         //exercício 10
         double myouble = 9.78d;
@@ -106,7 +106,7 @@ public class JavaApplication3 {
         Math.sqrt(x); 
         
         //exercício 22
-        Math.random();
+        //Math.random();
         
         //exercício 23
        boolean isJavaFun = true;
@@ -221,7 +221,7 @@ public class JavaApplication3 {
                     }
                     System.out.println(i);
                 }
-                
+              
                  //exercício 38
                  String [] cars = {"Volvo", "BMW", "Ford"};
                  
@@ -246,7 +246,8 @@ public class JavaApplication3 {
                     
                     //exercício 43
                     int [][] myNumbers = { {1,2,3,4},{5,6,7} };
-                    
+    
+                   /* 
                     //exercício 44             
                     static void myMethod() {
                        System.out.println("I just got executed!");
